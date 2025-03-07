@@ -5,7 +5,7 @@ title: Research
 <br>
 ## Is Deservingness Merit-based or Need-based? <br> Evidence from Medical Crowdfunding
 ___
-*[Download draft](https://www.dropbox.com/scl/fi/gcggyd8g48mmgs5mbxd7m/Chen-JMP-Merit-1117.pdf?rlkey=z4l1ydm44tbo7850tkywbdth8&dl=0)*  
+*[Download Draft](https://www.dropbox.com/scl/fi/gcggyd8g48mmgs5mbxd7m/Chen-JMP-Merit-1117.pdf?rlkey=z4l1ydm44tbo7850tkywbdth8&dl=0)*  
 <i>[Download Slides](https://www.dropbox.com/scl/fi/53x7a7pbg1dp30j7p8i5k/JMT_IAER_Flyout_1223.pdf?rlkey=e8810cw0gesqlscy0afebej97&dl=0)</i>
 
 <br>
@@ -18,14 +18,14 @@ This paper studies how donors respond to merit and need when giving to families 
 
 ## Born to lead: The Name Order Effect in Political Selection in China
 ___
-<i>Download [Draft](https://www.dropbox.com/s/qk6518kdby8i6mx/born-to-lead-03062025.pdf?st=zwuivryt&dl=0)</i>
+<i>[Download Draft](https://www.dropbox.com/s/qk6518kdby8i6mx/born-to-lead-03062025.pdf?st=zwuivryt&dl=0)</i>
 
 This paper studies behavioral and institutional biases in top-down political selection. I document that Chinese officials with fewer surname strokes are overrepresented at high ranks due to their names appearing earlier than peers.
 Using biographical data, I show that local leaders with names listed earlier receive a two to four percentage-point increase in annual promotion probability, which is mitigated by superiors’ knowledge of the candidates. Potential mechanisms include substitution order in leadership bodies and cognitive constraints in decision-making. Just as voters are affected by the ballot order, seasoned politicians are not immune to biases when selecting subordinates.
 
 <br>
 
-![Number of Strokes](/assets/nstrokeciplot.png)
+![Number of Strokes](/assets/nstroke_ciplot.png)
 
 <br>
 ## Social Learning in Policy Making 
