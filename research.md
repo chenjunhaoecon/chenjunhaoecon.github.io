@@ -35,8 +35,8 @@ ___
 
 Using large language models to categorize policy documents and exploiting a unique social networking setup among policymakers at China’s Party School, we investigate the diffusion of policy ideas. The study finds that policy diffusion is more likely between cities with leaders who were classmates in these training programs. The results indicate that social networks significantly influence policy transmission. The impact of these social connections is equivalent to approximately 10% of the effect of directly moving a policymaker from one jurisdiction to another. These findings primarily apply to non-economic policies, suggesting that when tackling complex social problems, policymakers rely on knowledge exchange with more experienced peers in their network.
 <br> 
-
 ![Topic Hierarchy by BERT](/assets/the_topic_hierarchy.png)
+<br>
 
 ## The Economic Impact of Closing Illicit Markets:<br> Evidence from China’s Crackdown on Prostitution
 ___
@@ -50,13 +50,12 @@ ___
 <br>
 
 
-<br>
 ## The Intergenerational Effect of Malaria Eradication 
 ___
 *Joint with [Siddharth George](https://sites.google.com/view/siddharthgeorge/home), [Saravana Ravindran](https://www.saravanaravindran.com/), and Nikhitha Mary Mathew*  
 
 Using a cohort DID design and exploiting regional variation in malaria endemicity,
-we investigate whether parents' exposure to malaria eradication program affects the health and labor market outcomes of their children. We find zero effect in India and other countries. We document an educational benefit for children who are themselves exposed to malaria eradication in China. 
+we investigate whether parents' exposure to malaria eradication program affects the health and labor market outcomes of their children. We find zero effect in India and other countries. We document an educational benefit for children who were themselves exposed to malaria eradication in China. 
 
 ![MalariaChina](/assets/finish-second-school.png)
 
