@@ -18,7 +18,7 @@ This paper studies how donors respond to merit and need when giving to families 
 
 ## Born to lead: The Name Order Effect in Political Selection in China
 ___
-<i>[Download Draft](https://www.dropbox.com/s/qk6518kdby8i6mx/born-to-lead-03062025.pdf?st=zwuivryt&dl=0)</i>
+<i>[Download Draft](https://www.dropbox.com/s/qk6518kdby8i6mx/born-to-lead-03062025.pdf?st=zwuivryt&dl=0)</i> | 
 <i>[Download Slides](https://www.dropbox.com/scl/fi/mzscmt8mk0xhq0bv9hb0c/StrokesSlides_2025spr.pdf?rlkey=a050q3md1a47bwcgck5qdlbxw&st=2whrjxx9&dl=0)</i>
 
 
