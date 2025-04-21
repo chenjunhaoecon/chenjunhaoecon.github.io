@@ -5,8 +5,7 @@ title: Research
 <br>
 ## Is Deservingness Merit-based or Need-based? <br> Evidence from Medical Crowdfunding
 ___
-<i>[Working Paper](https://www.dropbox.com/scl/fi/oa40beu7x0vd83y97k42v/meirt-JEEA-apr25.pdf?rlkey=77erc4nrnv0hrm16eqa66iqxb&st=974m93fq&dl=0)</i> |  
-<i>[Download Slides](https://www.dropbox.com/scl/fi/9rjd1r0mlzo15t1gvpuho/JMT_IAER_Flyout_1223.pdf?rlkey=bfvtwvm691g8x0rkrkpby3l8w&st=et8kl0ul&dl=0)</i>
+<i>[Working Paper](https://www.dropbox.com/scl/fi/oa40beu7x0vd83y97k42v/meirt-JEEA-apr25.pdf?rlkey=77erc4nrnv0hrm16eqa66iqxb&st=974m93fq&dl=0)</i> | <i>[Download Slides](https://www.dropbox.com/scl/fi/9rjd1r0mlzo15t1gvpuho/JMT_IAER_Flyout_1223.pdf?rlkey=bfvtwvm691g8x0rkrkpby3l8w&st=et8kl0ul&dl=0)</i>
 
 This paper studies how donors respond to merit and need when giving to families facing unaffordable medical expenses. With data from a leading crowdfunding platform in China, I find that campaigns receive more donations if recipients report having a higher education level or attending more selective colleges. The college rank effect persists even after controlling for content and textual characteristics and donor fixed effects. To identify the effect of donor preference, I conduct an online survey experiment to elicit the willingness of respondents to donate to fundraising vignettes, in which the patients’ college and medical expenses are independently randomized. Both academic merit and financial need enhance donor generosity. Female and younger respondents respond more to need and less to merit. The college rank effect is more pronounced for top and in-province institutions and among people with better knowledge of the ranking. Merit helps attract donations, likely by enhancing perceived deservingness. Novel textual methods based on large language models are developed to extract information and build measures from fundraising stories efficiently.
 <br>
@@ -17,8 +16,7 @@ This paper studies how donors respond to merit and need when giving to families 
 
 ## Born to lead: The Name Order Effect in Political Selection in China
 ___
-<i>[Working Paper](https://www.dropbox.com/s/qk6518kdby8i6mx/born-to-lead-03062025.pdf?st=zwuivryt&dl=0)</i> | 
-<i>[Download Slides](https://www.dropbox.com/scl/fi/mzscmt8mk0xhq0bv9hb0c/StrokesSlides_2025spr.pdf?rlkey=a050q3md1a47bwcgck5qdlbxw&st=2whrjxx9&dl=0)</i>
+<i>[Working Paper](https://www.dropbox.com/s/qk6518kdby8i6mx/born-to-lead-03062025.pdf?st=zwuivryt&dl=0)</i> | <i>[Download Slides](https://www.dropbox.com/scl/fi/mzscmt8mk0xhq0bv9hb0c/StrokesSlides_2025spr.pdf?rlkey=a050q3md1a47bwcgck5qdlbxw&st=2whrjxx9&dl=0)</i>
 
 
 This paper studies behavioral and institutional biases in top-down political selection. I document that Chinese officials with fewer surname strokes are overrepresented at high ranks due to their names appearing earlier than their peers.
