@@ -9,7 +9,7 @@ ___
 
 **Beamer with Convenient Bullet Points** <br>
 [Download LaTeX](/assets/beamer_template/template-beamer-CJ.zip) | 
-[Preview PDF](/assets/beamer_template/template169.pdf) 
+[Preview PDF](/assets/beamer_template/template169.pdf) <br>
 ![Sample page](/assets/beamer_template/samplepage.png)
 
 
