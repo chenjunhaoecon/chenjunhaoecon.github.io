@@ -7,6 +7,11 @@ ___
 
 <br>
 
+** Beamer with Convenient Bullet Points ** <br>
+[Download](/assets/beamer_template/template-beamer-CJ.zip) 
+[PDF](/assets/beamer_template/template169.pdf) 
+![Sample page](/assets/beamer_template/samplepage.png)
+
 
 **Jianshu Posts** *Sample data* <br>
 Posts from 90K users on jianshu.com, scraped in 2021 <br>
