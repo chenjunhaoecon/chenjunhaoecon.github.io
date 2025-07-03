@@ -50,7 +50,7 @@ Using RDD and the bunching method, I find that city governments in China are les
 
 ![Manipulation tests](/assets/suppressing_bad_news.png)
 <br>
-<!---
+<!--
 ## The Economic Impact of Closing Illicit Markets:<br> Evidence from China’s Crackdown on Prostitution
 ___
 
@@ -61,7 +61,7 @@ ___
 <br>
 ![The effect on entertainment](/assets/wenyu_coefplot.png)
 <br>
---->
+-->
 
 
 ## The Intergenerational Effect of Malaria Eradication 
