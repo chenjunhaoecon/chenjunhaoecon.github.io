@@ -22,7 +22,6 @@ ___
 
 This paper studies behavioral and institutional biases in top-down political selection. I document that Chinese officials with fewer surname strokes are overrepresented at high ranks due to their names appearing earlier than their peers.
 Using biographical data, I show that local leaders with names listed earlier receive a 2-4  increase in annual promotion probability, which is mitigated by superiors’ knowledge of the candidates. <!--Potential mechanisms include substitution order in leadership bodies and cognitive constraints in decision-making. Just as voters are affected by the ballot order, seasoned politicians are not immune to biases when selecting subordinates. -->
-
 <br>
 
 ![Number of Strokes](/assets/nstroke_ciplot.png)
@@ -35,6 +34,7 @@ ___
 
 Using large language models to categorize policy documents and exploiting a unique social networking setup among policymakers at China’s Party School, we investigate the diffusion of policy ideas. The study finds that policy diffusion is more likely between cities with leaders who were classmates in these training programs. The results indicate that social networks significantly influence policy transmission. The impact of these social connections is equivalent to approximately 10% of the effect of directly moving a policymaker from one jurisdiction to another. These findings primarily apply to non-economic policies, suggesting that when tackling complex social problems, policymakers rely on knowledge exchange with more experienced peers in their network.
 <br> 
+
 ![Topic Hierarchy by BERT](/assets/the_topic_hierarchy.png)
 <br>
 
@@ -45,8 +45,12 @@ ___
 <i>[Download Slides](https://www.dropbox.com/scl/fi/bpgbts0y7zm0h73r5wf4y/advanceonly202506slides.pdf?rlkey=a7ctp42sno7852b1lc93fc8ia&st=hd311new&dl=0)</i> | 
 <i>[Beamer Template](assets/beamer_template/template-beamer-CJ.zip)</i>
 
-Using RDD and the bunching method, I find that city governments in China are less likely to report a year-on-year deterioration of an indicator.
-<!--
+Using RDD and the bunching method, I find that city governments in China are less likely to report a year-on-year deterioration of an indicator in the statistical yearbooks and bulletins.
+<br> 
+
+![Manipulation tests](/assets/suppressing_bad_news.png)
+<br>
+<!---
 ## The Economic Impact of Closing Illicit Markets:<br> Evidence from China’s Crackdown on Prostitution
 ___
 
@@ -57,7 +61,7 @@ ___
 <br>
 ![The effect on entertainment](/assets/wenyu_coefplot.png)
 <br>
--->
+--->
 
 
 ## The Intergenerational Effect of Malaria Eradication 
