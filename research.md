@@ -42,7 +42,7 @@ Using large language models to categorize policy documents and exploiting a uniq
 <br>
 ## Advance Only: Reporting Bias and Perception Manipulation in Official Statistical Communication
 ___
-*Joint with Shengqi Ni*
+*Joint with Shengqi Ni* | 
 <i>[Working Paper](https://www.dropbox.com/scl/fi/4a3hzx6qj136kbqmpaubp/Reporting_Bias_03102026.pdf?rlkey=bn1dmewja267nu85v2levgyjn&st=9w8i8gyv&dl=0)</i> | 
 <i>[Download Slides](https://www.dropbox.com/scl/fi/bpgbts0y7zm0h73r5wf4y/advanceonly202506slides.pdf?rlkey=a7ctp42sno7852b1lc93fc8ia&st=hd311new&dl=0)</i> | 
 <i>[Beamer Template](assets/beamer_template/template-beamer-CJ.zip)</i>
@@ -67,14 +67,14 @@ Statistical manipulation can take the form of selective reporting. We assemble a
 <br>-->
 
 
-## The Intergenerational Effect of Malaria Eradication 
+<!---## The Intergenerational Effect of Malaria Eradication 
 ___
 *Joint with [Siddharth George](https://sites.google.com/view/siddharthgeorge/home), [Saravana Ravindran](https://www.saravanaravindran.com/), and Nikhitha Mary Mathew*  
 
 Using a cohort DID design and exploiting regional variation in malaria endemicity,
 we investigate whether parents' exposure to malaria eradication programs affects the health and labor market outcomes of their children. We find zero effect in India and other countries. We document an educational benefit for children who were themselves exposed to malaria eradication in China. 
 
-![MalariaChina](/assets/finish-second-school.png)
+![MalariaChina](/assets/finish-second-school.png)--->
 
 
 
