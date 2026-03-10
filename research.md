@@ -42,7 +42,7 @@ Using large language models to categorize policy documents and exploiting a uniq
 <br>
 ## Advance Only: Reporting Bias and Perception Manipulation in Official Statistical Communication
 ___
-*Joint with [Shengqi Ni]
+*Joint with Shengqi Ni*
 <i>[Working Paper](https://www.dropbox.com/scl/fi/4a3hzx6qj136kbqmpaubp/Reporting_Bias_03102026.pdf?rlkey=bn1dmewja267nu85v2levgyjn&st=9w8i8gyv&dl=0)</i> | 
 <i>[Download Slides](https://www.dropbox.com/scl/fi/bpgbts0y7zm0h73r5wf4y/advanceonly202506slides.pdf?rlkey=a7ctp42sno7852b1lc93fc8ia&st=hd311new&dl=0)</i> | 
 <i>[Beamer Template](assets/beamer_template/template-beamer-CJ.zip)</i>
@@ -52,7 +52,7 @@ Statistical manipulation can take the form of selective reporting. We assemble a
 <br> 
 
 <!--- ![Manipulation tests](/assets/suppressing_bad_news.png) --->
-![RDplot](/assets/Rdplot-advance.png)
+![RDplot](/assets/rd4plots-advance.png)
 <br>
 
 <!--## The Economic Impact of Closing Illicit Markets:<br> Evidence from China’s Crackdown on Prostitution -->
