@@ -7,11 +7,11 @@ ___
 
 
 
-**中级微观经济学** 
-东北财经大学 (Fall 2025)
+**中级微观经济学** <br>
+东北财经大学 (Fall 2025) <br>
 [Course Page](https://dorian-passbook-6f5.notion.site/260e8788ae008013a130f4cbe86fe35a)
 
-**发展经济学 **
+**发展经济学** <br>
 东北财经大学 (Fall 2025)
 
 **Intermediate Micro** *Teaching Fellow* <br>
