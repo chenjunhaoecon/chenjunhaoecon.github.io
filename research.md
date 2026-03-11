@@ -16,7 +16,7 @@ In medical crowdfunding, college selectivity helps attract donations by increasi
 
 <br>
 
-## First-in-Line: The Name Order Effect in Political Selection in China
+## First in Line: The Name Order Effect in Top-Down Political Selection
 ___
 <i>[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5227003)</i> | <i>[Download Slides](https://www.dropbox.com/scl/fi/mzscmt8mk0xhq0bv9hb0c/StrokesSlides_2025spr.pdf?rlkey=a050q3md1a47bwcgck5qdlbxw&st=2whrjxx9&dl=0)</i>
 
