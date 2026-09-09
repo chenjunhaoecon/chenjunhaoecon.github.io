@@ -12,7 +12,7 @@ ___
 [Course Page](https://dorian-passbook-6f5.notion.site/260e8788ae008013a130f4cbe86fe35a)
 
 **发展经济学** <br>
-东北财经大学 (Fall 2025)
+东北财经大学 (Fall 2025) <br>
 [Course Page](https://dorian-passbook-6f5.notion.site/2026-3d0e8788ae0080c9b118dd2d600b0057)
 
 **Intermediate Micro** *Teaching Fellow* <br>
