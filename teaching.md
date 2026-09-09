@@ -13,10 +13,10 @@ ___
 
 **发展经济学** <br>
 东北财经大学 (Fall 2025)
+[Course Page](https://dorian-passbook-6f5.notion.site/2026-3d0e8788ae0080c9b118dd2d600b0057)
 
 **Intermediate Micro** *Teaching Fellow* <br>
 UA10 New York University (Fall 2020 Go Local Program in Shanghai) <br>
-[Review Slides](https://www.dropbox.com/s/1x04v0bm2dqeh1v/Intermediate_Micro_review_UA10.pdf?dl=0)
 
 **Microeconomics (Master)** *Teaching Fellow* <br>
 EC501 Boston University (Fall 2021)
