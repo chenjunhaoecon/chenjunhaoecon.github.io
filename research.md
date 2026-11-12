@@ -40,7 +40,6 @@ ___
 <i>[Beamer Template](assets/beamer_template/template-beamer-CJ.zip)</i>
 
 Statistical manipulation can take the form of selective reporting. We assemble a novel dataset of official annual reports summarizing local socioeconomic performance in Chinese cities and use LLMs to measure reporting patterns across major indicators. The authorities avoid explicitly reporting year-over-year declines in favorable indicators (e.g., GDP growth) and increases in adverse indicators (e.g., air pollution). Marginal improvements are approximately 10 percentage points more likely to be explicitly reported than marginal deteriorations. Selective reporting is more pronounced for politically salient indicators.
-
 <br> 
 
 <!--- ![Manipulation tests](/assets/suppressing_bad_news.png) --->
