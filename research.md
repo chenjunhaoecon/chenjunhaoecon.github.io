@@ -20,12 +20,31 @@ In medical crowdfunding, college selectivity helps attract donations by increasi
 ___
 <i>[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5227003)</i> | <i>[Download Slides](https://www.dropbox.com/scl/fi/mzscmt8mk0xhq0bv9hb0c/StrokesSlides_2025spr.pdf?rlkey=a050q3md1a47bwcgck5qdlbxw&st=2whrjxx9&dl=0)</i>
 
-Behavioral and institutional biases appear to favor Chinese officials with early-listed surnames in promotion.
+<i>Accepted by the Journal of Economic Behavior & Organization</i> 
+
+Behavioral and institutional biases favor Chinese officials with early-listed surnames in promotion.
 <!--This paper studies behavioral and institutional biases in top-down political selection. I document that Chinese officials with fewer surname strokes are overrepresented at high ranks due to their names appearing earlier than their peers.
 Using biographical data, I show that local leaders with names listed earlier receive a 2-4  increase in annual promotion probability, which is mitigated by superiors’ knowledge of the candidates. Potential mechanisms include substitution order in leadership bodies and cognitive constraints in decision-making. Just as voters are affected by the ballot order, seasoned politicians are not immune to biases when selecting subordinates. -->
 <br>
 
 ![Number of Strokes](/assets/nstroke_ciplot.png)
+
+
+<br>
+## Advance Only: Reporting Bias and Perception Manipulation in Official Statistical Communication
+___
+*Joint with Shengqi Ni* | 
+<i>[Working Paper](https://www.dropbox.com/scl/fi/4a3hzx6qj136kbqmpaubp/Reporting_Bias_03102026.pdf?rlkey=bn1dmewja267nu85v2levgyjn&st=9w8i8gyv&dl=0)</i> | 
+<i>[Download Slides](https://www.dropbox.com/scl/fi/qkibdxln48juf3eu21s9u/advance-20min-XMU.pdf?rlkey=w1qjkxt8tu08aq381fvl9ookj&st=n396mr6n&dl=0)</i> | 
+<i>[Beamer Template](assets/beamer_template/template-beamer-CJ.zip)</i>
+
+Statistical manipulation can take the form of selective reporting. We assemble a novel dataset of official annual reports summarizing local socioeconomic performance in Chinese cities and use LLMs to measure reporting patterns across major indicators. The authorities avoid explicitly reporting year-over-year declines in favorable indicators (e.g., GDP growth) and increases in adverse indicators (e.g., air pollution). Marginal improvements are approximately 10 percentage points more likely to be explicitly reported than marginal deteriorations. Selective reporting is more pronounced for politically salient indicators.
+
+<br> 
+
+<!--- ![Manipulation tests](/assets/suppressing_bad_news.png) --->
+![RDplot](/assets/rd4plots-advance.png)
+<br>
 
 <br>
 ## Social Learning in Policy Making 
@@ -38,23 +57,6 @@ Using large language models to categorize policy documents and exploiting a uniq
 
 ![Topic Hierarchy by BERT](/assets/the_topic_hierarchy.png)
 <br>
-
-<br>
-## Advance Only: Reporting Bias and Perception Manipulation in Official Statistical Communication
-___
-*Joint with Shengqi Ni* | 
-<i>[Working Paper](https://www.dropbox.com/scl/fi/4a3hzx6qj136kbqmpaubp/Reporting_Bias_03102026.pdf?rlkey=bn1dmewja267nu85v2levgyjn&st=9w8i8gyv&dl=0)</i> | 
-<i>[Download Slides](https://www.dropbox.com/scl/fi/bpgbts0y7zm0h73r5wf4y/advanceonly202506slides.pdf?rlkey=a7ctp42sno7852b1lc93fc8ia&st=hd311new&dl=0)</i> | 
-<i>[Beamer Template](assets/beamer_template/template-beamer-CJ.zip)</i>
-
-Statistical manipulation can take the form of selective reporting. We assemble a novel dataset of official annual reports summarizing local socioeconomic performance of Chinese cities, and measure reporting patterns in major indicators using Large Language Models. The authorities avoid explicitly reporting year-over-year declines in favorable indicators (e.g., GDP growth) and increases in adverse indicators (e.g., air pollution). Marginal improvements are approximately 10 percentage points more likely to be explicitly reported than marginal deteriorations. Selective reporting is more pronounced for politically salient indicators。
-
-<br> 
-
-<!--- ![Manipulation tests](/assets/suppressing_bad_news.png) --->
-![RDplot](/assets/rd4plots-advance.png)
-<br>
-
 <!--## The Economic Impact of Closing Illicit Markets:<br> Evidence from China’s Crackdown on Prostitution -->
 <!--___-->
 
