@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 <br>
-## Meritocracy in Charitable Giving: <br> How College Selectivity Shapes Medical Crowdfunding Outcomes
+### Meritocracy in Charitable Giving: <br> How College Selectivity Shapes Medical Crowdfunding Outcomes
 ___
 <i>[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5225855)</i> | <i>[Download Slides](https://www.dropbox.com/scl/fi/9rjd1r0mlzo15t1gvpuho/JMT_IAER_Flyout_1223.pdf?rlkey=bfvtwvm691g8x0rkrkpby3l8w&st=et8kl0ul&dl=0)</i>
 
@@ -16,7 +16,7 @@ In medical crowdfunding, college selectivity helps attract donations by increasi
 
 <br>
 
-## First in Line: The Name Order Effect in Top-Down Political Selection
+### First in Line: The Name Order Effect in Top-Down Political Selection
 ___
 <i>[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5227003)</i> | <i>[Download Slides](https://www.dropbox.com/scl/fi/mzscmt8mk0xhq0bv9hb0c/StrokesSlides_2025spr.pdf?rlkey=a050q3md1a47bwcgck5qdlbxw&st=2whrjxx9&dl=0)</i>
 <br> <i style="font-weight: bold; color: #444;">
@@ -32,7 +32,7 @@ Using biographical data, I show that local leaders with names listed earlier rec
 
 
 <br>
-## Advance Only: Reporting Bias and Perception Manipulation in Official Statistical Communication
+### Advance Only: Reporting Bias and Perception Manipulation in Official Statistical Communication
 ___
 *Joint with Shengqi Ni* | 
 <i>[Working Paper](https://www.dropbox.com/scl/fi/71x5kllyswz28zsgfx9l1/advance0920.pdf?rlkey=c81hwi0h5ak5v6s908rvcnnlc&dl=0)</i> | 
@@ -48,7 +48,7 @@ Statistical manipulation can take the form of selective reporting. We assemble a
 <br>
 
 <br>
-## Social Learning in Policy Making 
+### Social Learning in Policy Making 
 ___
 *Joint with [Yiming Cao](https://www.yimingcao.com)*  
 <!--- <i>Download [Here](https://www.dropbox.com/scl/fi/yzlov9we69mhr2l72rpbo/Paper2_policydiffusion.pdf?rlkey=ylh9s9xmkij6ewiway6omvp8j&dl=0)</i>  --->
